@@ -1,0 +1,8 @@
+{
+  "name": "Magyar települések REST API",
+  "version": "1.0.0",
+  "description": "Laravel REST API megyék és települések kezeléséhez",
+  "title": "Települések API dokumentáció",
+  "url": "http://127.0.0.1:8000/api",
+  "sampleUrl": "http://127.0.0.1:8000/api"
+}
